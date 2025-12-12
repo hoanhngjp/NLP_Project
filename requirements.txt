@@ -1,0 +1,10 @@
+torch
+torchtext
+torchvision
+torchaudio
+spacy
+numpy
+pandas
+matplotlib
+jupyter
+portalocker>=2.0.0
